@@ -1,6 +1,7 @@
 import psycopg2
-
+## NOT IN USE YET....
 # This is a maybe... Most likely going to set up a Django project
+# Some data manipulation to better orgainze the resume document data to be pulled later
 class dbConnection:
     # Connect to PGSQL DB
     def connect():
